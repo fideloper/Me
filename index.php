@@ -74,16 +74,24 @@
         </div>
         <div class="span4">
           <h2>I Play</h2>
-          <p>I create my own ideas and collaborate as well. You can see some examples at <a href="http://fideloper.com">http://fideloper.com</a> where I blog about my projects and other technical matters.</p>
-          <p>I'm currently loving <a href="http://nodejs.org/" >Node.js</a> and living in *nix servers.</p>
-          <p>I'm a huge supporter of <a href="http://fideloper.com/article/why_markdown.md">Markdown</a> as a means of publishing on the web.</p>
-          <iframe src="http://markdotto.github.com/github-buttons/github-btn.html?user=fideloper&type=follow"
-  allowtransparency="true" frameborder="0" scrolling="0" width="132px" height="20px"></iframe>
-  <!--<p>Currently loving <a href="http://nodejs.org/" >Node.js</a> and frameworks such as <a href="http://twitter.github.com/bootstrap/" >Bootstrap</a> and some awesomeness being developed <a href="https://twitter.com/digitalsurgeons">@digitalsurgeons</a>. Deep into <a href="https://github.com/fideloper" >GitHub</a>, and deeper into <a href="http://beanstalkapp.com/">Beanstalk</a> (SFTP/SSH Deployment! Post-deploy hooks! &lt;3)</p>-->
+          <p>I write about tech at <a href="http://fideloper.com">http://fideloper.com</a>.</p>
+          <p>I'm currently loving <a href="http://nodejs.org/" >Node.js</a>, <a href="http://laravel.com/" >Laravel</a> and living in Ubuntu servers.</p>
+          <p>I'm a huge supporter of Markdown as a means of publishing on the web.</p>
         </div>
       </div>
 
       <hr>
+
+      <div class="row" id="pics">
+        <div class="span12">
+          <h2>Picslol</h2>
+          <ul class="thumbnails">
+            <li><a href="#" class="thumbnail" onclick="return false;"><img src="img/fideloper.jpg" alt="" width="266" height="266"></a></li>
+            <li><a href="#" class="thumbnail" onclick="return false;"><img src="img/me.jpg" alt=""></a></li>
+            <li><a href="#" class="thumbnail" onclick="return false;"><img src="img/guitars.jpg" alt=""></a></li>
+          </ul>
+        </div>
+      </div>
 
 
     </div> <!-- /container -->
